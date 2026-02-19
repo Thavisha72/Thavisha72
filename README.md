@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-*** I am a dedicated Data Science student with a strong foundation in machine learning, business analysis, and data analysis techniques. Passionate about leveraging data-driven insights to solve real-world problems, I have hands-on experience with various analytical tools and methodologies. My expertise includes statistical analysis, predictive modeling , and data visualization, enabling me to extract meaningful insights that drive business decisions. I am eager to apply my skills in a dynamic environment where I can contribute to data-driven innovation and continuous learning ***
+***I am a dedicated Data Science student with a strong foundation in machine learning, business analysis, and data analysis techniques. Passionate about leveraging data-driven insights to solve real-world problems, I have hands-on experience with various analytical tools and methodologies. My expertise includes statistical analysis, predictive modeling , and data visualization, enabling me to extract meaningful insights that drive business decisions. I am eager to apply my skills in a dynamic environment where I can contribute to data-driven innovation and continuous learning***
 ---
 
 ## 🌐 Connect With Me
