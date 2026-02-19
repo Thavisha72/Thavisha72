@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Thavisha  
 
 🎓 Data Science Undergraduate  
@@ -11,17 +10,13 @@
 
 ## 💫 About Me
 
-I am a data-driven developer who enjoys solving real-world problems using technology.  
-My interests span across Machine Learning, AI, Cloud Computing, and Full-Stack Development.  
-
-I focus on building complete end-to-end systems — from data preprocessing and modeling to deployment in the cloud.
-
+I am a dedicated Data Science student with a strong foundation in machine learning, business analysis, and data analysis techniques. Passionate about leveraging data-driven insights to solve real-world problems, I have hands-on experience with various analytical tools and methodologies. My expertise includes statistical analysis, predictive modeling , and data visualization, enabling me to extract meaningful insights that drive business decisions. I am eager to apply my skills in a dynamic environment where I can contribute to data-driven innovation and continuous learning
 ---
 
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/thavisha-nipun)  
 
 ---
 
@@ -29,17 +24,16 @@ I focus on building complete end-to-end systems — from data preprocessing and 
 
 ### 👨‍💻 Programming Languages
 - Python  
-- Java  
-- C  
-- C++  
+- R language
 
 ### 🌐 Web Development
 - HTML  
 - CSS  
-- Tailwind CSS  
-- Node.js  
+- Tailwind CSS    
 - React  
-
+- streatlit
+- Flask
+- 
 ### 📊 Data Science & Machine Learning
 - Pandas  
 - NumPy  
@@ -57,16 +51,9 @@ I focus on building complete end-to-end systems — from data preprocessing and 
 - CI/CD  
 - CloudFormation  
 
-### 🐧 Operating Systems
-- Linux  
-- Unix  
-
 ### 🎨 Creative Tools
-- Canva  
-- Adobe Lightroom  
-- Adobe Illustrator  
-- Adobe After Effects  
-
+- Canva 
+- Figma 
 ---
 
 ## 📊 GitHub Stats
@@ -89,10 +76,4 @@ I focus on building complete end-to-end systems — from data preprocessing and 
 
 ---
 
-## ✨ Developer Quote
-
-> “Turning data into decisions and ideas into intelligent systems.”
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Thavisha72&icon=0&color=0)
